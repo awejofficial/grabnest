@@ -51,19 +51,19 @@ SQL file included: `grabnest.sql`
 
 ## 📁 Project Structure
 
-grabnest/
-├──admin/ # Admin dashboard
-├──ss/ # Stylesheets
-├── js/ # JavaScript files
-├── images/ # Product & site images
-├── index.php # Home page
-├── login.php # User login
-├── register.php # User registration
-├── cart.php # Shopping cart
-├── wishlist.php # Wishlist
-├── config.php # DB connection config
-└── grabnest.sql # SQL dump of the database
- ---
+grabnest/             # Main project folder
+├── admin/            # Admin dashboard (Backend for managing users, products, etc.)
+├── css/              # Stylesheets (All the styles for the site)
+├── js/               # JavaScript files (Frontend functionality)
+├── images/           # Product & site images (Image files used in the project)
+├── index.php         # Home page (Displays product listings and site overview)
+├── login.php         # User login (Allows users to log into their accounts)
+├── register.php      # User registration (Allows new users to create accounts)
+├── cart.php          # Shopping cart (Manage added products before checkout)
+├── wishlist.php      # Wishlist (Manage and view user’s saved products)
+├── config.php        # DB connection config (Database configuration file)
+└── grabnest.sql      # SQL dump of the database (Database structure and sample data)
+---
 
 ## 📌 Notes
 
