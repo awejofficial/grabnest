@@ -52,8 +52,8 @@ SQL file included: `grabnest.sql`
 ## 📁 Project Structure
 
 grabnest/
-├── admin/ # Admin dashboard
-├── css/ # Stylesheets
+├──admin/ # Admin dashboard
+├──ss/ # Stylesheets
 ├── js/ # JavaScript files
 ├── images/ # Product & site images
 ├── index.php # Home page
@@ -63,8 +63,7 @@ grabnest/
 ├── wishlist.php # Wishlist
 ├── config.php # DB connection config
 └── grabnest.sql # SQL dump of the database
-
----
+ ---
 
 ## 📌 Notes
 
