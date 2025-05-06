@@ -62,18 +62,4 @@ SQL file included: `grabnest.sql`
 This project is for academic and demonstration purposes only.
 
 
----
-
-## 📌 Notes
-
-- The website is fully functional and demo-ready.
-- Can be scaled further with payment integration and order tracking.
-- Built with clear separation of frontend and backend logic.
-
----
-
-## 🔖 License
-
-This project is for academic and demonstration purposes only.
-
 
